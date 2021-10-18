@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martin Osvald
 - 👀 I’m interested in AI,Games,Art
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects for beginners
 - 📫 How to reach me ... You can pm me on LinkedIn.
 
 <!---
